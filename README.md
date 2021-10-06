@@ -3,9 +3,12 @@
 <body>
 
 <h2>Váradi Péter</h2>
-<p>GeForce RTX 3090</p>
+<a href="https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3090/">
+<img src="https://thekingvp.github.io/weboldal/rtx3090.png" alt=Videókártya width="1260" height="568">
+</a>
 
-<img src="rtx3090.jpg" alt="Videókártya" width="1260" height="568">
+<a href="https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3090/">
+</a>
 
 </body>
 </html>
