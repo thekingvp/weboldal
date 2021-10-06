@@ -1,12 +1,11 @@
-# els-weboldal
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>bréturo és a grafikus</h2>
-<p>HTML images are defined with the img tag:</p>
+<h2>Váradi Péter</h2>
+<p>GeForce RTX 3090</p>
 
-<img src="https://thekingvp.github.io/els-weboldal/k.png" alt="W3Schools.com" width="560" height="300">
+<img src="rtx3090.jpg" alt="https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3090/" width="1260" height="568">
 
 </body>
 </html>
